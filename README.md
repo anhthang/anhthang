@@ -20,8 +20,14 @@ A software engineer from **Hanoi, Vietnam**, currently living in **Hanoi, Vietna
 </p>
 -->
 
+### 🙈 My fantastic beasts
+| Beast a.k.a Project | Ability a.k.a Description | Badge |
+|---|---|---|
+| [XML to JSON](https://marketplace.visualstudio.com/items?itemName=buianhthang.xml2json) | Convert XML from clipboard or current document/selection to JSON | [![Version](https://img.shields.io/visual-studio-marketplace/v/buianhthang.xml2json?style=flat-square&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=buianhthang.xml2json) ![Installs](https://img.shields.io/visual-studio-marketplace/i/buianhthang.xml2json?style=flat-square) ![Downloads](https://img.shields.io/visual-studio-marketplace/d/buianhthang.xml2json?style=flat-square) |
+| [gitflow](https://marketplace.visualstudio.com/items?itemName=buianhthang.gitflow) | Gitflow integration for Visual Studio Code | [![Version](https://img.shields.io/visual-studio-marketplace/v/buianhthang.gitflow?style=flat-square&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=buianhthang.gitflow) ![Installs](https://img.shields.io/visual-studio-marketplace/i/buianhthang.gitflow?style=flat-square) ![Downloads](https://img.shields.io/visual-studio-marketplace/d/buianhthang.gitflow?style=flat-square) |
+| [KeyColor Preview](https://keycolor.xyz) | Keyboard, keycap color preview and customization for mechanical keyboard lovers |  |
 
-### 📫 Where to find me
+### 🔭 Where to find me
 
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://anhthang.org)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhthang)
