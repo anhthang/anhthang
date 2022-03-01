@@ -27,8 +27,8 @@ A software engineer from **Hanoi, Vietnam**, currently living in **Hanoi, Vietna
 | [gitflow](https://marketplace.visualstudio.com/items?itemName=buianhthang.gitflow) | Gitflow integration for Visual Studio Code | [![Version](https://img.shields.io/visual-studio-marketplace/v/buianhthang.gitflow?style=flat-square&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=buianhthang.gitflow) ![Installs](https://img.shields.io/visual-studio-marketplace/i/buianhthang.gitflow?style=flat-square) ![Downloads](https://img.shields.io/visual-studio-marketplace/d/buianhthang.gitflow?style=flat-square) |
 | [Awesome made by Vietnameses](https://github.com/anhthang/awesome-made-by-vietnameses) | 🇻🇳 A collection of amazing applications or open source projects built by Vietnamese developers | ![Stars](https://img.shields.io/github/stars/anhthang/awesome-made-by-vietnameses?style=flat-square) | 
 | [Pokédex](https://www.raycast.com/anhthang/pokedex) |  Search for a Pokémon by name or using its National Pokédex number with Raycast. | ![Stars](https://img.shields.io/github/stars/anhthang/raycast-pokedex?style=flat-square) | 
-| [Keeb Catalogue](https://keeb-catalogue.web.app) |  Catalogue for mechanical keyboard community  |  |
-| [KeyColor Preview](https://keycolor.xyz) | Keyboard, keycap color preview and customization for mechanical keyboard lovers |  |
+| [Keeb Catalogue](https://keeb-catalogue.web.app) |  Catalogue for mechanical keyboard community  | ![Stars](https://img.shields.io/github/stars/anhthang/keeb-catalogue?style=flat-square) |
+| [KeyColor Preview](https://keycolor.xyz) | Keyboard, keycap color preview and customization for mechanical keyboard lovers | ![Stars](https://img.shields.io/github/stars/anhthang/keycolor-preview?style=flat-square) |
 
 
 ### 🔭 Where to find me
