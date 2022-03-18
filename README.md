@@ -38,6 +38,9 @@ A software engineer from **Hanoi, Vietnam**, currently living in **Hanoi, Vietna
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anhthangbui)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anhthangbui)
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![anhthang's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anhthang&hide_border=true&theme=dracula)
 ![anhthang's github stats](https://github-readme-stats.vercel.app/api?username=anhthang&hide=["issues"]&show_icons=true&theme=dracula)
 
 <!--
