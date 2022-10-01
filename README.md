@@ -27,7 +27,7 @@ A software engineer from **Hanoi, Vietnam**, currently living in **Hanoi, Vietna
 | [gitflow](https://marketplace.visualstudio.com/items?itemName=buianhthang.gitflow) | Gitflow integration for Visual Studio Code | [![Version](https://img.shields.io/visual-studio-marketplace/v/buianhthang.gitflow?style=flat-square&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=buianhthang.gitflow) ![Installs](https://img.shields.io/visual-studio-marketplace/i/buianhthang.gitflow?style=flat-square) ![Downloads](https://img.shields.io/visual-studio-marketplace/d/buianhthang.gitflow?style=flat-square) |
 | [Awesome made by Vietnameses](https://github.com/anhthang/awesome-made-by-vietnameses) | 🇻🇳 A collection of amazing applications or open source projects built by Vietnamese developers | ![Stars](https://img.shields.io/github/stars/anhthang/awesome-made-by-vietnameses?style=flat-square) | 
 | [Pokédex](https://www.raycast.com/anhthang/pokedex) |  Search for a Pokémon by name or using its National Pokédex number with Raycast. | ![Stars](https://img.shields.io/github/stars/anhthang/raycast-pokedex?style=flat-square) | 
-| [Keeb Catalogue](https://keeb-catalogue.web.app) |  Catalogue for mechanical keyboard community  | ![Stars](https://img.shields.io/github/stars/anhthang/keeb-catalogue?style=flat-square) |
+| [Keebtalogue](https://keebtalogue.vercel.app) |  Catalogue for artisan keycap and mechanical keyboard enthusiasts  | ![Stars](https://img.shields.io/github/stars/anhthang/keebtalogue?style=flat-square) |
 | [KeyColor Preview](https://keycolor.xyz) | Keyboard, keycap color preview and customization for mechanical keyboard lovers | ![Stars](https://img.shields.io/github/stars/anhthang/keycolor-preview?style=flat-square) |
 
 
@@ -37,23 +37,3 @@ A software engineer from **Hanoi, Vietnam**, currently living in **Hanoi, Vietna
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhthang)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anhthangbui)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anhthangbui)
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![anhthang's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anhthang&hide_border=true&theme=dracula)
-![anhthang's github stats](https://github-readme-stats.vercel.app/api?username=anhthang&hide=["issues"]&show_icons=true&theme=dracula)
-
-<!--
-**anhthang/anhthang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
