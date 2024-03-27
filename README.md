@@ -2,23 +2,14 @@
 
 A software engineer from **Hanoi, Vietnam**, currently living in **Hanoi, Vietnam**
 
-<!--
-### 🔭 I’m currently working on
-<p>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="go" src="https://img.shields.io/badge/-go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-</p>
--->
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=10458061" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10458061&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @anhthang" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10458061&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ### 🙈 My fantastic beasts
 | Beast a.k.a Project | Ability a.k.a Description | |
