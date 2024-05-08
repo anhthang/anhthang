@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Thang
 
-A software engineer from **Hanoi, Vietnam**, currently living in **Hanoi, Vietnam**
+A Senior Software Engineer based in **Hanoi, Vietnam**, working at TUI. I'm passionate about building web applications and sites using Node.js, Vue.js, Nuxt.js, and React.
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=10458061" target="_blank" style="display: block" align="center">
   <picture>
