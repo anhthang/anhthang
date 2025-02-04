@@ -12,14 +12,16 @@ A Senior Software Engineer based in **Hanoi, Vietnam**, working at TUI. I'm pass
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ### 🙈 My fantastic beasts
-| Beast a.k.a Project | Ability a.k.a Description | |
+| Beast | Ability | |
 |---|---|---|
+| [Keebtalogue](https://keebtalogue.vercel.app) |  Driven by a passion for artisan keycaps and keyboards and for enthusiasts like you.  | ![Stars](https://img.shields.io/github/stars/anhthang/keebtalogue?style=flat-square&logo=github) |
+| [Soaring Symbols](https://github.com/anhthang/soaring-symbols) | A Curated Collection of Airline Logos & Icons in SVG | ![Stars](https://img.shields.io/github/stars/anhthang/soaring-symbols?style=flat-square&logo=github) | 
 | [XML to JSON](https://marketplace.visualstudio.com/items?itemName=buianhthang.xml2json) | Convert XML from clipboard or current document/selection to JSON | [![Version](https://img.shields.io/visual-studio-marketplace/v/buianhthang.xml2json?style=flat-square&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=buianhthang.xml2json) ![Installs](https://img.shields.io/visual-studio-marketplace/i/buianhthang.xml2json?style=flat-square) ![Downloads](https://img.shields.io/visual-studio-marketplace/d/buianhthang.xml2json?style=flat-square) |
 | [gitflow](https://marketplace.visualstudio.com/items?itemName=buianhthang.gitflow) | Gitflow integration for Visual Studio Code | [![Version](https://img.shields.io/visual-studio-marketplace/v/buianhthang.gitflow?style=flat-square&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=buianhthang.gitflow) ![Installs](https://img.shields.io/visual-studio-marketplace/i/buianhthang.gitflow?style=flat-square) ![Downloads](https://img.shields.io/visual-studio-marketplace/d/buianhthang.gitflow?style=flat-square) |
-| [Awesome made by Vietnameses](https://github.com/anhthang/awesome-made-by-vietnameses) | 🇻🇳 Explore amazing open-source projects and apps by Vietnamese developers | ![Stars](https://img.shields.io/github/stars/anhthang/awesome-made-by-vietnameses?style=flat-square) | 
-| [Pokédex](https://www.raycast.com/anhthang/pokedex) |  Search for a Pokémon by name or using its National Pokédex number with Raycast. | ![Stars](https://img.shields.io/github/stars/anhthang/raycast-pokedex?style=flat-square) | 
-| [Keebtalogue](https://keebtalogue.vercel.app) |  Driven by a passion for artisan keycaps and keyboards and for enthusiasts like you.  | ![Stars](https://img.shields.io/github/stars/anhthang/keebtalogue?style=flat-square) |
-
+| [SOAP Converter](https://github.com/anhthang/soap-converter) | Instantly convert SOAP/WSDL definitions to REST API specifications for use with Postman, Swagger, and other API development tools. | ![Stars](https://img.shields.io/github/stars/anhthang/soap-converter?style=flat-square&logo=github) | 
+| [Awesome made by Vietnameses](https://github.com/anhthang/awesome-made-by-vietnameses) | 🇻🇳 Explore amazing open-source projects and apps by Vietnamese developers | ![Stars](https://img.shields.io/github/stars/anhthang/awesome-made-by-vietnameses?style=flat-square&logo=github) | 
+| [Pokédex](https://www.raycast.com/anhthang/pokedex) |  Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | ![Raycast](https://img.shields.io/raycast/dt/anhthang/pokedex?style=flat-square&logo=raycast&color=red) | 
+| [Premier League](https://www.raycast.com/anhthang/premier-league) |  Get instant access to Premier League data right from your Raycast menu. Easily search for teams, players, fixtures, results, standings and awards. | ![Raycast](https://img.shields.io/raycast/dt/anhthang/premier-league?style=flat-square&logo=raycast&color=red) | 
 
 ### 🔭 Where to find me
 
