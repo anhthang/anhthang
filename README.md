@@ -1,6 +1,8 @@
-### Hi 👋, I'm Thang
+### Hi there, I'm Thang! 👋
 
-A Senior Software Engineer based in **Hanoi, Vietnam**, working at TUI. I'm passionate about building web applications and sites using Node.js, Vue.js, Nuxt.js, and React.
+A Cloud DevOps Engineer based in Hanoi, Vietnam, currently working at <img src="https://www.vpbank.com.vn/-/media/vpbank-latest/6all/icon/toolbar/logo_150x37-01.svg" height="20" /> (previously at <img src="https://static.tui.com/assets/v2/logos/tui/tui-smile.svg" height="20" /> TUI). I focus on building and maintaining scalable cloud infrastructure.
+
+I'm passionate about building web applications and sites using Node.js, Vue.js, Nuxt.js, and React.
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=10458061" target="_blank" style="display: block" align="center">
   <picture>
