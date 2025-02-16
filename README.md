@@ -1,8 +1,8 @@
 ### Hi there, I'm Thang! 👋
 
-A Cloud DevOps Engineer based in Hanoi, Vietnam, currently working at <img src="https://www.vpbank.com.vn/-/media/vpbank-latest/6all/icon/toolbar/logo_150x37-01.svg" height="20" /> (previously at <img src="https://static.tui.com/assets/v2/logos/tui/tui-smile.svg" height="20" /> TUI). I focus on building and maintaining scalable cloud infrastructure.
+A Cloud DevOps Engineer based in Hanoi, Vietnam, currently working at <img src="https://www.vpbank.com.vn/-/media/vpbank-latest/6all/icon/toolbar/logo_150x37-01.svg" height="20" />, previously at <img src="https://www.tui.com/blog/wp-content/uploads/2023/04/cropped-tui-logo-3.png" height="20" />.
 
-I'm passionate about building web applications and sites using Node.js, Vue.js, Nuxt.js, and React.
+I focus on building and maintaining scalable cloud infrastructure to support the development. I'm passionate about building web applications and sites using Node.js, Vue.js, Nuxt.js, and React.
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=10458061" target="_blank" style="display: block" align="center">
   <picture>
@@ -16,7 +16,7 @@ I'm passionate about building web applications and sites using Node.js, Vue.js, 
 ### 🙈 My fantastic beasts
 | Beast | Ability | |
 |---|---|---|
-| [Keebtalogue](https://keebtalogue.vercel.app) |  Driven by a passion for artisan keycaps and keyboards and for enthusiasts like you.  | ![Stars](https://img.shields.io/github/stars/anhthang/keebtalogue?style=flat-square&logo=github) |
+| [Keebdex](https://keebdex.org) |  A modern, user-friendly platform designed to revolutionize how enthusiasts manage, discover, and collect everything keyboard-related.  | ![Stars](https://img.shields.io/github/stars/anhthang/keebdex?style=flat-square&logo=github) |
 | [Soaring Symbols](https://github.com/anhthang/soaring-symbols) | A Curated Collection of Airline Logos & Icons in SVG | ![Stars](https://img.shields.io/github/stars/anhthang/soaring-symbols?style=flat-square&logo=github) | 
 | [XML to JSON](https://marketplace.visualstudio.com/items?itemName=buianhthang.xml2json) | Convert XML from clipboard or current document/selection to JSON | [![Version](https://img.shields.io/visual-studio-marketplace/v/buianhthang.xml2json?style=flat-square&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=buianhthang.xml2json) ![Installs](https://img.shields.io/visual-studio-marketplace/i/buianhthang.xml2json?style=flat-square) ![Downloads](https://img.shields.io/visual-studio-marketplace/d/buianhthang.xml2json?style=flat-square) |
 | [gitflow](https://marketplace.visualstudio.com/items?itemName=buianhthang.gitflow) | Gitflow integration for Visual Studio Code | [![Version](https://img.shields.io/visual-studio-marketplace/v/buianhthang.gitflow?style=flat-square&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=buianhthang.gitflow) ![Installs](https://img.shields.io/visual-studio-marketplace/i/buianhthang.gitflow?style=flat-square) ![Downloads](https://img.shields.io/visual-studio-marketplace/d/buianhthang.gitflow?style=flat-square) |
