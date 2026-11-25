@@ -1,32 +1,62 @@
-### Hi there, I'm Thang! 👋
+# Hi, I'm Thang 👋
 
-A Platform Engineer based in Hanoi, Vietnam, currently working at <img src="https://www.vpbank.com.vn/-/media/website/background-trang-chu/VPBank-final.svg" height="20" />, previously at <img src="https://www.tui.com/blog/wp-content/uploads/2023/04/cropped-tui-logo-3.png" height="20" />.
+Platform Engineer in Hanoi, Vietnam, currently at
+<img
+  src="https://www.vpbank.com.vn/-/media/website/background-trang-chu/VPBank-final.svg"
+  alt="VPBank" height="20" />,
+previously a Senior Software Engineer at
+<img
+  src="https://www.tui.com/blog/wp-content/uploads/2023/04/cropped-tui-logo-3.png"
+  alt="TUI" height="20" />.
 
-I focus on automating cloud infrastructure and creating paved paths to make software delivery seamless and efficient for engineering teams.
+I build the integration platforms that other teams ship on: API gateways,
+file transfer and the automation that keeps them boring.
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=10458061" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10458061&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @anhthang" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10458061&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+Outside work I turn my hobbies into projects: mechanical keyboards,
+airlines, Pokémon and football. I write about them at
+[anhthang.org](https://anhthang.org).
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+## 🛠️ What I do
 
-### 🙈 My fantastic beasts
-| Beast | Ability | |
-|---|---|---|
-| [Keebdex](https://keebdex.org) |  The ultimate platform for keyboard collectors to curate, sync, and showcase their collections. Organize your artisans intelligently, stay synced across devices, and share your passion with fellow enthusiasts.  | ![Stars](https://img.shields.io/github/stars/anhthang/keebdex?style=flat-square&logo=github) |
-| [Soaring Symbols](https://github.com/anhthang/soaring-symbols) | A Curated Collection of Airline Logos & Icons in SVG | ![Stars](https://img.shields.io/github/stars/anhthang/soaring-symbols?style=flat-square&logo=github) | 
-| [XML to JSON](https://marketplace.visualstudio.com/items?itemName=buianhthang.xml2json) | Convert XML from clipboard or current document/selection to JSON |  |
-| [gitflow](https://marketplace.visualstudio.com/items?itemName=buianhthang.gitflow) | Gitflow integration for Visual Studio Code |  |
-| [SOAP Converter](https://github.com/anhthang/soap-converter) | Instantly convert SOAP/WSDL definitions to REST API specifications for use with Postman, Swagger, and other API development tools. | ![Stars](https://img.shields.io/github/stars/anhthang/soap-converter?style=flat-square&logo=github) |  
-| [Pokédex](https://www.raycast.com/anhthang/pokedex) |  Explore the world of Pokémon with stunning visuals and detailed information in Raycast. | ![Raycast](https://img.shields.io/raycast/dt/anhthang/pokedex?style=flat-square&logo=raycast&color=red) | 
-| [Premier League](https://www.raycast.com/anhthang/premier-league) |  Get instant access to Premier League data right from your Raycast menu. Easily search for teams, players, fixtures, results, standings and awards. | ![Raycast](https://img.shields.io/raycast/dt/anhthang/premier-league?style=flat-square&logo=raycast&color=red) | 
+- Migrating the bank's legacy API gateways (WSO2, DataPower) to IBM API
+  Connect, with self-service governance for internal and partner teams.
+- Running highly available SFTP platforms on AWS Transfer Family and SFTPGo.
+- Writing TypeScript and Node.js for most things, Vue and Nuxt for the web.
 
-### 🔭 Where to find me
+## 🚀 Projects
 
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://anhthang.org)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anhthang)
-[![X](https://img.shields.io/badge/-X-14171A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anhthangbui)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anhthangbui)
+- **[Keebdex](https://keebdex.org)**: the collector's index of artisan
+  keycaps, keysets and keyboards. Look up any maker, sculpt or colorway and
+  keep your own collection and wishlist in sync.
+  [![Stars](https://img.shields.io/github/stars/keebdex/keebdex?style=flat-square&logo=github)](https://github.com/keebdex/keebdex)
+- **[Soaring Symbols](https://soaringsymbols.org)**: logos, icons and tail
+  designs of 160+ airlines in SVG, with airline data and a free image API.
+  Available on npm, jsDelivr and Raycast.
+  [![Stars](https://img.shields.io/github/stars/soaring-symbols/soaring-symbols?style=flat-square&logo=github)](https://github.com/soaring-symbols/soaring-symbols)
+  [![npm](https://img.shields.io/npm/dm/soaring-symbols?style=flat-square&logo=npm)](https://www.npmjs.com/package/soaring-symbols)
+- **[SOAP Converter](https://github.com/anhthang/soap-converter)**: turn
+  SOAP/WSDL definitions into REST specs you can open in Postman or
+  OpenAPI/Swagger.
+  [![Stars](https://img.shields.io/github/stars/anhthang/soap-converter?style=flat-square&logo=github)](https://github.com/anhthang/soap-converter)
+- **[XML to JSON](https://marketplace.visualstudio.com/items?itemName=buianhthang.xml2json)**:
+  a VS Code extension that converts XML from the clipboard, the open document
+  or a selection to JSON.
+  [![Stars](https://img.shields.io/github/stars/anhthang/vscode-xml2json?style=flat-square&logo=github)](https://github.com/anhthang/vscode-xml2json)
+- **[gitflow](https://marketplace.visualstudio.com/items?itemName=buianhthang.gitflow)**:
+  a VS Code extension for running Gitflow feature, release and hotfix
+  branches without leaving the editor.
+  [![Stars](https://img.shields.io/github/stars/anhthang/vscode-gitflow?style=flat-square&logo=github)](https://github.com/anhthang/vscode-gitflow)
+- **[Pokédex](https://www.raycast.com/anhthang/pokedex)**: a Raycast extension
+  with stats, abilities, moves and evolution chains for every Pokémon, plus a
+  type chart and weaknesses.
+  [![Downloads](https://img.shields.io/raycast/dt/anhthang/pokedex?style=flat-square&logo=raycast&color=red)](https://www.raycast.com/anhthang/pokedex)
+- **[Premier League](https://www.raycast.com/anhthang/premier-league)**:
+  a Raycast extension for tables, fixtures, live matches and results, plus
+  clubs, players and awards.
+  [![Downloads](https://img.shields.io/raycast/dt/anhthang/premier-league?style=flat-square&logo=raycast&color=red)](https://www.raycast.com/anhthang/premier-league)
+
+## 📫 Find me
+
+[![Blog](https://img.shields.io/badge/Blog-anhthang.org-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://anhthang.org)
+[![X](https://img.shields.io/badge/X-@anhthangbui-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anhthangbui)
+[![Instagram](https://img.shields.io/badge/Instagram-@anhthangbui-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anhthangbui)
